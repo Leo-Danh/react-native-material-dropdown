@@ -1134,9 +1134,9 @@ react-native-material-ripple@^0.8.0:
   dependencies:
     prop-types "^15.5.10"
 
-"react-native-material-textfield@https://github.com/sml-mirror/react-native-material-textfield":
+"react-native-material-textfield@https://github.com/Leo-Danh/react-native-material-textfield":
   version "0.16.24"
-  resolved "https://github.com/sml-mirror/react-native-material-textfield#fb7836cbc734d0b0e83211446fdc61a27eeb0524"
+  resolved "https://github.com/Leo-Danh/react-native-material-textfield#bcaf3bad3e1d101a1db2b683adde889bdf95f563"
   dependencies:
     prop-types "^15.5.9"
 
